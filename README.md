@@ -3,7 +3,7 @@ Your project's description...
 
 ## Environments
 - Preview:  https://main--ITTD-franklin-amit--Amitojhaitt.hlx.page/
-- Live: https://main--ITTD-franklin-amit--Amitojhaitt.hlx.live/
+- Live: https://main--ITTD-franklin-amit--Amitojhaitt.hlx.page.live/
 
 ## Installation
 
