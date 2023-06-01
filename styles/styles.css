@@ -241,3 +241,6 @@ main .section {
 main .section.highlight {
   background-color: var(--highlight-background-color);
 }
+.banner{
+  background-color: red;
+}
