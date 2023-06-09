@@ -87,3 +87,9 @@
 .logos .logos-nav:hover::before {
     opacity: 1;
 }
+.logos-container.columns-container{
+    padding-top: 0;
+}
+.section.logos-container{
+    padding-bottom: 0;
+}
